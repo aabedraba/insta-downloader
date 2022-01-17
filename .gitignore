@@ -1,4 +1,4 @@
 node_modules
 .env
-videos/*
-pictures/*
+videos/*.mp4
+pictures/*.jpg
